@@ -6,4 +6,4 @@ I am currently in my third year of studying computer engineering, and I aspire t
 
 Currently, I work with (and continue to learn) several programming languages, including C#, Java, Python, JavaScript, and TypeScript. Additionally, I am familiar with frameworks such as React, Express and ASP.NET Core.
 
- * [My LinkedIn page](https://www.linkedin.com/in/caganseyrek/)
+ * [My LinkedIn Profile](https://www.linkedin.com/in/caganseyrek/)
