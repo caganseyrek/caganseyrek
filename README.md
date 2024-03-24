@@ -1,4 +1,4 @@
-# Hey there! I'm Çağan 👋
+# Hey, I'm Çağan 👋
 
 I’m a 3rd-year computer engineering student who is interested in full-stack web development.
 
