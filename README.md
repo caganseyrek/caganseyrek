@@ -1,7 +1,7 @@
-# Hello everyone 👋
+# Hey there! I'm Çağan 👋
 
-My name is Çağan Seyrek.
+I’m a 3rd-year computer engineering student who is interested in full-stack web development. I've been into programming since 2014 as a hobby.
 
-I am currently in my third year of studying computer engineering, and I aspire to become a full-stack web developer.
+My toolkit includes languages like JavaScript, TypeScript, Java, Python, C#, and frameworks like React, Express, ASP.NET Core.
 
-Currently, I work with several programming languages, including JavaScript, TypeScript, Java, C# and Python. Additionally, I am familiar with frameworks such as React, Express and ASP.NET Core.
+ * 🌐 You can find me on [LinkedIn](https://www.linkedin.com/in/caganseyrek/)
