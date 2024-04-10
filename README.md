@@ -1,7 +1,6 @@
 # Hey, I'm Çağan 👋
 
-I’m a 3rd-year computer engineering student who is interested in full-stack web development.
+I’m a 3rd-year computer engineering student who loves full-stack web development and the open-source way of sharing, collaborating and improving tech together for everyone.
 
-My toolkit includes languages like JavaScript, TypeScript, Java, Python, C#, and frameworks like React, Express, ASP.NET Core.
-
- * 🌐 You can find me on [LinkedIn](https://www.linkedin.com/in/caganseyrek/) or on my [Website](https://caganseyrek.github.io/)
+ * 📜 [Website](https://caganseyrek.github.io/)
+ * 🌐 [LinkedIn](https://www.linkedin.com/in/caganseyrek/)
